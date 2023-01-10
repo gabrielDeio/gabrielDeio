@@ -4,7 +4,7 @@ Atualmente atuo no time de IOT da empresa que trabalho e as principais ferrament
    
    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30 heigth=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width=30 heigth=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30 heigth=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=30 heigth=30 /> <img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width=30 heigth=30 />
 
-Hoje estou me aprofudando mais em conceitos do Backend e ultilizando o ecossistema Java para isso.
+Hoje estou me aprofudando mais em conceitos do Backend e utilizando o ecossistema Java para isso.
           
           
           
